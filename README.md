@@ -32,3 +32,5 @@ python TestEmotionDetector.py
 
 ### Pre-trained model  
 If you do not want to train the model you can simply run the TestEmotionDetector.py without using TrainEmotionDetector.py
+
+If you want to detect emotions in a video you can comment line 19 in TestEmotionDetector.py and uncomment line 23 and add the path of the video file.
