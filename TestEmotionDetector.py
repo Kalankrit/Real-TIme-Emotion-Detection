@@ -20,7 +20,7 @@ cap = cv2.VideoCapture(0)
 
 # pass here your video path
 # you may download one from here : https://www.pexels.com/video/three-girls-laughing-5273028/
-#cap = cv2.VideoCapture("C:/Users/Mohd Kaif/Desktop/sample videos/pexels-ron-lach-8071987-4096x2160-25fps.mp4")
+#cap = cv2.VideoCapture(<Enter path of the video file>)
 
 while True:
     # Find haar cascade to draw bounding box around face
